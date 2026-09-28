@@ -1,0 +1,28 @@
+{
+  "name": "ta-vp",
+  "version": "1.0.0",
+  "description": "opsec 100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotzyx/TA-vp.git"
+  },
+  "keywords": [
+    "yliopilane",
+    "veeb",
+    "Tallinna",
+    "Ylikool"
+  ],
+  "author": "ralph saaremets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotzyx/TA-vp/issues"
+  },
+  "homepage": "https://github.com/hotzyx/TA-vp#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
